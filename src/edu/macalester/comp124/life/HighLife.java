@@ -8,7 +8,7 @@ package edu.macalester.comp124.life;
 public class HighLife implements RuleSet {
 
     public String getName() {
-        return "HighLife";
+        return "HighLife's Rules";
     }
 
     /**
